@@ -1,0 +1,12 @@
+#quad {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+canvas {
+    background-color: white;
+}
+
+body {margin:0}
